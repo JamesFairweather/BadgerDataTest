@@ -1,3 +1,4 @@
 I'm test file 1!
 Another change.
 Change #3
+Change #4 in the main stream.
